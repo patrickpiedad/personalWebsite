@@ -2,7 +2,7 @@ backend:
   # Use netlify identity as backend
   name: git-gateway
   branch: main
-  ### enable below lines for github integration ###
+  ### enable below lines for github integration (NOT NEEDED BECAUSE USING NETLIFY) ###
   # name: patrickpiedad
   # repo: https://github.com/patrickpiedad/personalWebsite.git
 media_folder: "public/blog"
