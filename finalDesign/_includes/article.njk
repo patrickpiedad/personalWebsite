@@ -6,24 +6,24 @@ layout: 'baseRest.njk'
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">
 
-				<!-- Main -->
-					<article id="main">
-						<header>
-							<h2>{{title}}</h2>
-							<p>{{description}}</p>
-						</header>
-						<section class="wrapper style5">
-							<div class="inner">
+<!-- Main -->
+	<article id="main">
+		<header>
+			<h2>{{title}}</h2>
+			<p>{{description}}</p>
+		</header>
+		<section class="wrapper style5">
+			<div class="inner">
 
-								<img class = "image fit" src={{image}} alt={{imageAlt}}>
-								<h5 class = "blogText">
+				<img class = "blogImage" src={{image}} alt={{imageAlt}}>
+				<h5 class = "blogText">
 
-									{{ content | safe }}
+					{{ content | safe }}
 
-								</h5>
-
-							</div>
-						</section>
-					</article>
+				</h5>
 
 			</div>
+		</section>
+	</article>
+
+</div>

@@ -1,15 +1,28 @@
 ---
-title: My Future Article
-description: Lorem
+title: The Building of My Blog
+description: How I used Nunjucks and a YouTube tutorial to add a blog to my portfolio website.
 author: Patrick Piedad
 date: 2024-07-08
 tags:
   - post
   - featured
-image: /images/pic03.jpg
-imageAlt: This is a test
+image: /images/nunjucks.png
+imageAlt: nunjucks code
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+I created my portfolio website as part of the 100Devs training that I'm currently working through. One of the tips that were given were to use a template to build the base for your website, unless you're a designer that already has the knowledge to do so. 
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+So that's what I did, and that's what you're reading this blog on right now! Quick shout out to HTML5 Up templates for giving a great starting point for devs like myself.
+
+Now if you're in the tech space, it won't take long for you to stumble upon the idea of documenting your journey in public, both for your own development AND to give employers an idea of who you are as a developer. Great advice.
+
+Putting those pieces together, I asked myself, "How can I build a blog on my portfolio site?" 
+
+It proved to be not-as-straight-forward as I originally though it would be.
+
+I had heard about all kinds of different options for blogs, such as WordPress, GitHub Pages, Hugo, etc... The list goes on. I found myself overwhelmed with the number of options as well as the complexity of learning another technology and trying to figure out how to integrate that with my current portfolio website. Would I have to build a backend? How do I even make blog posts, hard-coding the HTML / MD files? 
+
+All great questions.
+
+And then I stumbled upon 11ty, a simple static site generator.
+

@@ -3850,7 +3850,18 @@ input, select, textarea {
 				font: inherit;
 				text-transform: none;
 				vertical-align: baseline;
+				letter-spacing: 0.0375em;
 			}
+			.blogImage {
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				padding: 0 0 2em 0;
+				width: 75%;
+			  	height: 75%;
+			}
+
+
 
 		@media screen and (max-width: 1680px) {
 
