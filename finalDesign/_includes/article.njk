@@ -1,0 +1,29 @@
+---
+title: Software Developer | Patrick Piedad
+layout: 'baseRest.njk'
+---
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Main -->
+					<article id="main">
+						<header>
+							<h2>{{title}}</h2>
+							<p>{{description}}</p>
+						</header>
+						<section class="wrapper style5">
+							<div class="inner">
+
+								{# TODO: Add blog picture image template for each article to popualte #}
+								<img class = "image fit" src={{image}} alt={{imageAlt}}>
+								<h2>
+
+									{{ content | safe }}
+
+								</h2>
+
+							</div>
+						</section>
+					</article>
+
+			</div>

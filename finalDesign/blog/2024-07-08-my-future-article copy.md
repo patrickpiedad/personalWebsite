@@ -1,7 +1,7 @@
 ---
 title: My Future Article
 author: Patrick Piedad
-date: 2021-05-01
+date: 2024-07-08
 tags: ["post", "featured"]
 image: /images/pic03.jpg
 imageAlt: This is a test
