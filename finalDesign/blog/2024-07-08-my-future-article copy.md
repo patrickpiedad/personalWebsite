@@ -1,6 +1,6 @@
 ---
 title: The Building of My Blog
-description: How I used Nunjucks and a YouTube tutorial to add a blog to my portfolio website.
+description: How I used 11ty and a YouTube tutorial to add a blog to my portfolio website.
 author: Patrick Piedad
 date: 2024-07-08
 tags:
