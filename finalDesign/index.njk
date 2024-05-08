@@ -2,6 +2,8 @@
 title: Software Developer | Patrick Piedad
 layout: 'baseIndex.njk'
 ---
+{# TODO: Add "featured" blogs to front of page somewhere to grab attention. #}
+		
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">
 
@@ -44,6 +46,17 @@ layout: 'baseIndex.njk'
 						</ul>
 					</div>
 					</section>
+				</section>
+
+				<!-- Blog Snippets -->
+				<section id="two" class="wrapper style2">
+					<div class="inner">
+				<ul class="alt">
+					{%- for post in collections.featured | reverse -%}
+						{% include 'articleSnippet.njk' %}
+					{%- endfor %}
+				<ul>
+					</div>
 				</section>
 
 				<!-- Three -->

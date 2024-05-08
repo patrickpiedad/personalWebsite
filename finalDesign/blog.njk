@@ -10,7 +10,7 @@ layout: 'baseRest.njk'
 					<article id="main">
 						<header>
 							<h2>My Coding Thoughts</h2>
-							<p>Here's my coding jounrey, in blog form.</p>
+							<p>Here's my coding journey, in blog form.</p>
 						</header>
 						{# <section class="wrapper style5"> #}
 							<section class = "wrapper style2">
@@ -19,15 +19,7 @@ layout: 'baseRest.njk'
 				{# TODO: Need to add the proper classes for the blog text template and pictures #}
 				<ul class="alt">
 					{%- for post in collections.post | reverse -%}
-					<li>
-						<article>
-							<img class = "image right" src="{{post.data.image}}" alt="{{post.data.imageAlt}}">
-							<h3><a href="{{post.url}}">{{post.data.title}}</h3></a>
-							<p> by <span>{{post.data.author}}</span> on <span>{{post.date | postDate}}</span></p>
-							<p><span class = "col-4">{{post.data.description}}</p>
-							<h3><a class ="button primary" href="{{post.url}}">Continue reading</a></h3>
-						</article>
-					</li>
+						{% include 'articleSnippet.njk' %}
 					{%- endfor %}
 				<ul>
 
