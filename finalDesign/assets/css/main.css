@@ -3843,7 +3843,7 @@ input, select, textarea {
 			}
 			
 			.blogText {
-				margin: 0;
+				margin: -2em 0 0 0;
 				padding: 0;
 				border: 0;
 				font-size: 100%;
@@ -3856,9 +3856,9 @@ input, select, textarea {
 				display: block;
 				margin-left: auto;
 				margin-right: auto;
-				padding: 0 0 2em 0;
-				width: 75%;
-			  	height: 75%;
+				padding: 0 0 3em 0;
+				width: 70%;
+			  	height: 70%;
 			}
 
 
