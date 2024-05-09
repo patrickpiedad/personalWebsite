@@ -1,9 +1,9 @@
-<li>
+<li class="blog">
     <article>
         <img class = "blogImageRight" src="{{post.data.image}}" alt="{{post.data.imageAlt}}">
         <h3><a href="{{post.url}}">{{post.data.title}}</h3></a>
         <p> by <span>{{post.data.author}}</span> on <span>{{post.date | postDate}}</span></p>
-        <p><span class = "col-4">{{post.data.description}}</p>
+        <p><span class = "blogDescriptionSnippet">{{post.data.description}}</p>
         <h3><a class ="button primary" href="{{post.url}}">Continue reading</a></h3>
     </article>
 </li>
