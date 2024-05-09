@@ -1,13 +1,13 @@
 ---
-title: The Building of My Blog
-description: How I used 11ty and a YouTube tutorial to add a blog to my portfolio website.
+title: Documenting My Journey
+description: My first official blog post! I talk about my plan to document my learning journey in software development and why I think it's important.
 author: Patrick Piedad
-date: 2024-07-09
+date: 2024-07-08
 tags:
   - post
   - featured
-image: /images/nunjucks.png
-imageAlt: nunjucks code
+image: /images/learningLightbulb.jpeg
+imageAlt: 11ty code
 ---
 
 I created my portfolio website as part of the 100Devs training that I'm currently working through. One of the tips that were given were to use a template to build the base for your website, unless you're a designer that already has the knowledge to do so. 
