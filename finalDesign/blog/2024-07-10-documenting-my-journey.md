@@ -1,6 +1,7 @@
 ---
 title: Documenting My Journey
-description: I decided to document my software development learning and here's why I think its important.
+description: I decided to document my software development learning and here's
+  why I think its important.
 author: Patrick Piedad
 date: 2024-07-10
 tags:
@@ -55,14 +56,6 @@ And if you're a 5 foot short, Filipino lady with a cute but very talkative Yorki
 Cheers,
 <br>
 Pat
-
-
-
-
-
-
-
-		<!-- <img class = "image fit" src={{image}} alt={{imageAlt}}> -->
 
 
 
