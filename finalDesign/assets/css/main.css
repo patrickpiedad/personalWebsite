@@ -3928,7 +3928,9 @@ input, select, textarea {
 				padding: 10em 3em 8em 3em ;
 			}
 
-		}
+			.blogImageRight{ display: none; }
+
+			}
 
 		@media screen and (max-width: 736px) {
 
