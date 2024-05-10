@@ -2,7 +2,7 @@
 title: Documenting My Journey
 description: I decided to document my software development learning and here's why I think its important.
 author: Patrick Piedad
-date: 2024-07-08
+date: 2024-07-10
 tags:
   - post
   - featured
