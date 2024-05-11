@@ -14,7 +14,7 @@ Because they told me to.
 
 Just kidding (kind of).
 
-I recently decided to write about my software development journey for a few different reasons, but here's the main one:
+I recently decided to write about my software development journey for a few different reasons, but here's the main reason:
 
 <center>
 <b>Writing about my learning path gives me a place to reflect on all the things that I've learned so far.</b>
