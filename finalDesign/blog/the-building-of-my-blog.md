@@ -30,7 +30,7 @@ These resources were absolutely incredible in walking you through the process of
 
 T﻿he whole idea behind the technology is to create "templates" that could be reused in your project and use "front matter" to populate content. For example, take a look at the blog picture for this post.  
 
-I﻿t specifically reads <i>{% include 'articleSnippet.njk' %}</i>
+I﻿t specifically reads <i>'{% include 'articleSnippet.njk' %}'</i>
 
 W﻿hen the browser reads the code, it gets to this section and then looks for <i>'articleSnipper.njk'.</i> It then moves to that .njk and populates the page from that file. Once complete, it moves back to the main code and continues reading.
 
