@@ -4,32 +4,33 @@ description: How I used 11ty and a YouTube tutorial to add a blog to my portfoli
 author: Patrick Piedad
 date: 2024-05-15T19:03:18.652Z
 tags:
-  - post
-  - featured
+    - post
+    - featured
 image: /blog/code.png
 imageAlt: 11ty code
 ---
-I created my portfolio website as part of the 100Devs training that I'm currently working through. One of the tips that were to use a template to build the base for your website, unless you're a designer that already has the knowledge to do so. 
 
-So that's what I did, and that's what you're reading this blog on right now! 
+I created my portfolio website as part of the 100Devs training that I'm currently working through. One of the tips that were to use a template to build the base for your website, unless you're a designer that already has the knowledge to do so.
+
+So that's what I did, and that's what you're reading this blog on right now!
 
 --- <i>Quick shout out to HTML5 Up templates for giving a great starting point for devs like myself </i> ---
 
 Now if you're in the tech space, it won't take long for you to stumble upon the idea of documenting your journey in public, both for your own development AND to give employers an idea of who you are as a developer. Great advice.
 
-Putting those pieces together, I asked myself, "How can I build a blog on my portfolio site?" 
+Putting those pieces together, I asked myself, "How can I build a blog on my portfolio site?"
 
 It proved to be <b>not-as-straight-forward</b> as I originally thought.
 
-I had heard about all kinds of different options for blogs, such as WordPress, GitHub Pages, Hugo, etc... I found myself overwhelmed with the number of options as well as the complexity of learning another technology, then trying to figure out how to integrate that with my current portfolio website. Would I have to build a backend? How do I even make blog posts, hard-coding the HTML / MD files? 
+I had heard about all kinds of different options for blogs, such as WordPress, GitHub Pages, Hugo, etc... I found myself overwhelmed with the number of options as well as the complexity of learning another technology, then trying to figure out how to integrate that with my current portfolio website. Would I have to build a backend? How do I even make blog posts, hard-coding the HTML / MD files?
 
 All great questions.
 
-Luckily, I stumbled upon [﻿11ty](https://www.11ty.dev/) and [Kevin Powell's YouTube tutorial](https://www.youtube.com/watch?v=4wD00RT6d-g&t=1s). 
+Luckily, I stumbled upon [﻿11ty](https://www.11ty.dev/) and [Kevin Powell's YouTube tutorial](https://www.youtube.com/watch?v=4wD00RT6d-g&t=1s).
 
 These resources were absolutely incredible in walking you through the process of using static site generation to add blog functionality to a website.
 
-T﻿he whole idea behind the technology is to create "templates" that could be reused in your project and use "front matter" to populate content. For example, take a look at the blog picture for this post.  
+T﻿he whole idea behind the technology is to create "templates" that could be reused in your project and use "front matter" to populate content. For example, take a look at the blog picture for this post.
 
 I﻿t specifically reads <i>include 'articleSnippet.njk'</i>
 
@@ -54,9 +55,5 @@ B﻿ut it is the way that I decided to attack the challenge and I learned a whol
 T﻿hanks for reading, til' next time.
 
 C﻿heers,
+</br>
 P﻿at
-
-
-
-
-
