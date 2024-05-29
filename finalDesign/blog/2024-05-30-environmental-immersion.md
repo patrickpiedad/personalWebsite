@@ -10,7 +10,7 @@ image: /images/fullImmersion.jpeg
 imageAlt: Man fully immersed in water diving
 ---
 
-So I'm currently learning German... and if you know anything about learning German, you know that it can be a difficult language to grasp.
+So, I'm currently learning German... and if you know anything about learning German, you know that it can be a difficult language to grasp.
 
 The language has several words that mean the same thing, and they are ALL used frequently in daily vernacular. As a result, you need to know most of them in order to progress towards fluency. For comparison, a Wikipedia article states that German has 330,000 header words (words in the dictionary) while Spanish only has 93,000 words.
 
@@ -39,9 +39,9 @@ However, let's say you're a rock climber like me, and you head to the local spor
 
 And now, you're like me, the weird guy that is way too formal amongst fellow climbers.
 
-If you had the opportunity to immerse yourself in the culture, you'd eventually learn that in those types of hobbies, you always use the informal "du." Everyone are friends out at the crag, so no need to be oddly formal around them, regardless of your personal familiarity.
+If you had the opportunity to immerse yourself in the culture, you'd eventually learn that in those types of hobbies, you always use the informal "du." Everyone is friends out at the crag, so no need to be oddly formal around them, regardless of your personal familiarity.
 
-I think its the same with the coding and the tech world. You can learn these nuanced situations through immersion in the environment and culture of the tech scene. You can meet other people that have been around the block and are happy to show you the ropes. You can allow your mind to absorb what is going on around you, way more than you can consciously do through a book or online course.
+I think it is the same with the coding and the tech world. You can learn these nuanced situations through immersion in the environment and culture of the tech scene. You can meet other people that have been around the block and are happy to show you the ropes. You can allow your mind to absorb what is going on around you, way more than you can consciously do through a book or online course.
 
 Heck, on top of all that, it is really just nice to have a different avenue to learn about the things we're passionate about.
 
@@ -54,7 +54,7 @@ Now I'm a practical kind of guy, so I'll wrap up with my own ways (learned from 
 <br>
 <li> Joining a Discord or Slack community where you can have a constant presence with other like-minded people. I'm a part of the 100Devs community, and I couldn't recommend it more to anyone on the software development journey.</li>
 <br>
-<li> LinkedIn networking can also provide a great way to talking to people already in the industry. While this can be a little more daunting than the other options, its absolutely critical in building your network and learning the finer details of companies you're interested in. </li>
+<li> LinkedIn networking can also provide a great way to talking to people already in the industry. While this can be a little more daunting than the other options, it is absolutely critical in building your network and learning the finer details of companies you're interested in. </li>
 </ul>
 
 Cheers,
