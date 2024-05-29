@@ -3973,7 +3973,7 @@ body.is-preload #banner:after {
 }
 
 .blogText {
-	margin: -2em 0 0 0;
+	margin: -2em 4em 0 4em;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
