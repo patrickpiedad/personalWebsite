@@ -2,12 +2,12 @@
 title: Environmental Immersion
 description: How full immersion in the tech world accelerates my learning.
 author: Patrick Piedad
-date: 2024-05-28
+date: 2024-05-30
 tags:
     - post
     - featured
 image: /images/fullImmersion.jpeg
-imageAlt: Man fully immersed in water near a waterfall holding up a hang ten hand sign
+imageAlt: Man fully immersed in water diving
 ---
 
 So I'm currently learning German... and if you know anything about learning German, you know that it can be a difficult language to grasp.
@@ -27,28 +27,28 @@ If your coding skills are the "German" in this situation, then the <i>tech world
 
 You could do a great job of advancing your coding skills through persistent studying and hard work, and eventually, you would achieve your goals. But why limit yourself to only those techniques that can wax and wane with your ability to withstand prolonged periods of endless tutorials. Instead, IMMERSE yourself in the environment.
 
-Immersion in the tech world can bring many benefits, least of which are the exposure to the different technologies that exist, new projects brewing at various companies, and experiences of other people that have been on the same path that you are on. You can become familiar with a lot of the concepts that would normally be foreign to you, if you only studied coding curriculum sans environmental immersion.
+Immersion in the tech world can bring many benefits, least of which are the exposure to the different technologies that exist, new projects brewing at various companies, and experiences of other people that have been on the same path that you are on. You can become familiar with a lot of the concepts that would normally be foreign to you if you only studied coding curriculum, sans environmental immersion.
 
 Let's talk a German example to emphasize the point.
 
-The German language uses both the word "sie" and "du" to say "you." "Sie" is the formal use (as well as other things, but we'll table that discussion for now) and is used in setting where you aren't familiar with the other person as well as professional discussions. "Du" is used as the "informal use" or when you are familiar with the person you're conversing with.
+The German language uses both the word "sie" and "du" to say "you." "Sie" is the formal use (as well as other things, but we'll table that discussion for now) and is used in settings where you aren't familiar with the other person. "Du" is the "informal use" or when you are familiar with the person you are conversing with.
 
 That's pretty easy to understand, and you'd be able to learn that from a textbook.
 
 However, let's say you're a rock climber like me, and you head to the local sport crag to do some single pitch climbing. You arrive to the rock and see a bunch of other people, young and old, laughing, climbing, and being super friendly. You don't know these people at all, so naturally, you use the word "sie" when asking how they're doing, because that's what the textbook said to do.
 
-And now you're the weird guy that is way too formal amongst fellow climbers.
+And now, you're like me, the weird guy that is way too formal amongst fellow climbers.
 
-Now, if you had the opportunity to immerse yourself in the culture, you'd eventually learn that in those types of hobbies, you always use the informal "du." Everyone's friends out at the crag, so no need to be oddly formal around everyone.
+If you had the opportunity to immerse yourself in the culture, you'd eventually learn that in those types of hobbies, you always use the informal "du." Everyone are friends out at the crag, so no need to be oddly formal around them, regardless of your personal familiarity.
 
 I think its the same with the coding and the tech world. You can learn these nuanced situations through immersion in the environment and culture of the tech scene. You can meet other people that have been around the block and are happy to show you the ropes. You can allow your mind to absorb what is going on around you, way more than you can consciously do through a book or online course.
 
-Heck, on top of all that, its really just nice to have a different avenue to learn about the things we're passionate about, outside of structured curriculum.
+Heck, on top of all that, it is really just nice to have a different avenue to learn about the things we're passionate about.
 
 Now I'm a practical kind of guy, so I'll wrap up with my own ways (learned from all the wonderful people around me) to immerse yourself in the tech world.
 
 <ul>
-<li> Podcasts, such as CodeNewbie, Scrimba, FreeCodeCamp, The Changelog, Changelog News, Syntax, .NET Rocks!</li>
+<li> Podcasts, such as CodeNewbie, Scrimba, FreeCodeCamp, The Changelog, Changelog News, Syntax, and .NET Rocks!</li>
 <br>
 <li> Attending tech conferences in your local area. I try to extend my radius as far as possible to maximize the exposure.</li>
 <br>
