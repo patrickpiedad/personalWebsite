@@ -11,7 +11,7 @@ layout: 'baseIndex.njk'
 					<section id="banner">
 						<div class="inner">
 							<h2>Patrick Piedad</h2>
-							<p>Your next software developer</p>
+							<p>Software Developer</p>
 							<ul class="actions special">
 								<li><a href="/contactMe/index.html" class="button primary">Get in Touch</a></li>
 							</ul>
@@ -28,8 +28,8 @@ layout: 'baseIndex.njk'
 								<li><span class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>
 								<li><span class="icon solid fa-code major style3"><span class="label">Dolor</span></span></li>
 							</ul>
-							<h2>Hi! I'm Pat, your next software developer.</h2>
-							<p>I create professional, curated solutions to your problems.</p>
+							<h2>Hi! I'm Pat! <br> I'm a software developer based in Bavaria, Germany.</h2>
+							{# <p>I love creating curated solutions to your problems.</p> #}
 						</header>
 					</div>
 				</section>
@@ -38,9 +38,8 @@ layout: 'baseIndex.njk'
 				<section id="two" class="wrapper alt style2">
 					<section class="spotlight">
 						<div class="image"><img src="images/headshot.jpg" alt="" /></div><div class="content">
-						<h2>Passion for Coding</h2>
-						<p>Over the years, I've developed a passion for finding solutions through coding. I'm excited for us to work together on future challenges.</p>
-						</br>
+						<h2>My passion for coding</h2>
+						<p>Over the years, I've developed a passion for using code to solve life's problems. My technical experience includes HTML5, CSS3, and Javascript.</p>
 						<ul class="actions special">
 							<li><a href="/aboutMe/index.html" class="button primary">Learn more about me!</a></li>
 						</ul>
@@ -51,11 +50,12 @@ layout: 'baseIndex.njk'
 				<!-- Blog Snippets -->
 				<section id="two" class="wrapper style2">
 					<div class="inner">
-				<ul class="alt">
-					{%- for post in collections.featured | reverse -%}
-						{% include 'articleSnippet.njk' %}
-					{%- endfor %}
-				<ul>
+						<h2>My Featured Blog Posts</h2>
+						<ul class="alt">
+							{%- for post in collections.featured | reverse -%}
+								{% include 'articleSnippet.njk' %}
+							{%- endfor %}
+						<ul>
 					</div>
 				</section>
 
@@ -101,8 +101,9 @@ layout: 'baseIndex.njk'
 						<div class="inner">
 							<header>
 								<h2>Let's Chat</h2>
-								<p>I'm excited to work together.</br>
-									Click the button to access the contact form!</p>
+								<p>I'm always open to project inquiries and collaborations as well as simple coffee chats! 
+									<br>
+									<br> Click the button to access my contact form!</p>
 							</header>
 							<ul class="actions stacked">
 								<li><a href="/contactMe/index.html" class="button fit primary">Get in Touch</a></li>
