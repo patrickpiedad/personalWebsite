@@ -15,11 +15,12 @@ So, I'm currently learning German... and if you know anything about learning Ger
 The language has several words that mean the same thing, and they are ALL used frequently in daily vernacular. As a result, you need to know most of them in order to progress towards fluency. For comparison, a Wikipedia article states that German has 330,000 header words (words in the dictionary) while Spanish only has 93,000 words.
 
 Now, you could either do this learning solely through tedious flashcards and spaced repetition, which does work great, OR you could add in what that random college friend preached about learning a foreign language when they got back from their semester abroad.
+<br><br>
 
 <center>
 <i>Immersion</i>
 </center>
-<br>
+<br><br>
 
 Let's move this metaphor towards software development.
 
