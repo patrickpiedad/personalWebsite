@@ -5,7 +5,6 @@ author: Patrick Piedad
 date: 2024-05-15T19:03:18.652Z
 tags:
     - post
-    - featured
 image: /blog/code.png
 imageAlt: 11ty code
 ---
