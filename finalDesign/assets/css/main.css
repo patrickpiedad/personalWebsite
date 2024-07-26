@@ -3973,7 +3973,8 @@ body.is-preload #banner:after {
 }
 
 .blogText {
-	margin: -1em 9em 0 9em;
+	/* margin: -1em 9em 0 9em; */
+	margin: 1% 10%;
 	padding: 0;
 	border: 0;
 	font: inherit;
