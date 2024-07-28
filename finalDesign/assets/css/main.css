@@ -3985,14 +3985,16 @@ body.is-preload #banner:after {
 }
 
 .blogDescription {
-	margin: 0 5em 0 5em;
+	/* margin: 0 5em 0 5em; */
+	margin: 1% 10%;
 	clear: both;
 	height: 100%;
 	/* position: relative; */
 }
 
 span .blogDescriptionSnippet {
-	margin: 0 5em 0 0;
+	/* margin: 0 5em 0 0; */
+	margin: 1% 10%;
 	height: 100%;
 	/* position: relative; */
 }
@@ -4013,11 +4015,19 @@ span .blogDescriptionSnippet {
 	#main > header {
 		padding: 4em 3em 4em 3em;
 	}
+
+	.blogText {
+		margin: 1% 5%;
+	}
 }
 
 @media screen and (max-width: 1280px) {
 	#main > header {
 		padding: 4em 3em 4em 3em;
+	}
+
+	.blogText {
+		margin: 0;
 	}
 }
 
@@ -4029,6 +4039,10 @@ span .blogDescriptionSnippet {
 	.blogImageRight {
 		display: none;
 	}
+
+	.blogText {
+		margin: 0;
+	}
 }
 
 @media screen and (max-width: 736px) {
@@ -4039,6 +4053,10 @@ span .blogDescriptionSnippet {
 	#main > header h2 {
 		font-size: 1.25em;
 		margin: 0 0 1em 0;
+	}
+
+	.blogText {
+		margin: 0;
 	}
 }
 
