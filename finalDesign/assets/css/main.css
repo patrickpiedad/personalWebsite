@@ -4060,6 +4060,12 @@ span .blogDescriptionSnippet {
 	}
 }
 
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+	.blogText {
+		margin: 0;
+	}
+}
+
 body.is-mobile #main > header {
 	background-attachment: scroll;
 }
