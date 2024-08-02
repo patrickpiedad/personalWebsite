@@ -1,5 +1,5 @@
 <h1 align="center"> My Personal Website </h1>
-This is the repository used to build my personal website. My personal website was one of my first major coding endeavors. It serves as both a holder for my software developer portfolio and a project in itself.
+This is the repository used to build my personal website. My personal website was one of my first major coding endeavors. It serves as both a holder for my software developer portfolio and a project in itself. Check it out at https://patrickpiedad.netlify.app/
 <br></br>
 <br></br>
 
