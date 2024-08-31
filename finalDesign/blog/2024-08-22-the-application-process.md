@@ -118,8 +118,6 @@ Also, access to LinkedIn Learning and the learning paths require LinkedIn Premiu
 <p>
 Ah yes, the application timeline. Here's where the fun begins.
 
-<image src="/finalDesign/images/mssaAppTimeline.jpeg" alt="MSSA Timeline" >
-
 This <a href="https://military.microsoft.com/mssa/how-to-apply/#5-admissions-timeline">timeline</a> is great and gives you all the key dates you need. So instead of reiterating all of that information, I'll give you what I did during my application process:
 
 </p>
@@ -127,13 +125,16 @@ This <a href="https://military.microsoft.com/mssa/how-to-apply/#5-admissions-tim
 <b><u>2 Years Out</u></b>
 
 <p>
+
+Yes, you read that right.
+
 No, I did not know that I wanted to apply to MSSA two years out.
 
 Yes, I did know that I was going to transition out of the Army and began socializing the idea of doing a SkillBridge.
 
 Your results may vary, but this was instrumental in securing my DoD SkillBridge opportunity with my command.
 
-<b>Key Takeaway:</b> Start thinking about what it'll take to commit to MSSA. No matter your status, it takes time to plan out your commitment.
+<i><b>Key Takeaway:</b> Start thinking about what it'll take to commit to MSSA. No matter your status, it takes time to plan out your commitment.</i>
 
 </p>
 
@@ -150,40 +151,44 @@ I learned about MSSA through exploration of the DoD SkillBridge website and put 
 <br />
 <br />
 <p>
-One of my close friends and I, (hi Joe) started learning HTML, CSS, and JavaScript through the self-taught route. This learning was completely unrelated to MSSA.
+One of my close friends and I, (hi Joe), started learning HTML, CSS, and JavaScript on our own. This learning was completely unrelated to MSSA.
 
 So why am I mentioning it in this timeline?
 
-MSSA is not geared towards already-industry experts in the tech world.
+MSSA is not geared towards "already-industry experts" in the tech world.
 
-It is geared towards service members, veterans, and military spouses that are PASSIONATE about transitioning into the tech industry, in spite of limited expertise.
+It is geared towards service members, veterans, and military spouses that are <b>PASSIONATE</b> about transitioning into the tech industry, in spite of limited expertise.
 
-I can honestly say, I am extremely passionate about tech, software development in particular. I was amazed at seeing how technology in the military could make a difference and loved diving deep into the technical details of how it worked.
+I can honestly say, I am extremely passionate about tech, software development in particular. I was amazed at seeing how technology in the military could make a difference in the world and loved deep diving into the technical details of how it worked.
 
 And so, I started teaching myself how to code.
 
-Little did I know, my initiative to pursue what I was passionate about was exactly what got me into MSSA.
+Little did I know, my initiative to pursue what I was passionate about was exactly what got me into the program.
 
-<i><b>Key Takeaway:</b> If you're passionate getting into the tech world, don't wait until MSSA to start. Start now.</i>
+<i><b>Key Takeaway:</b> If you're passionate about getting into the tech world, don't wait until MSSA to start. Start now.</i>
 
 </p>
 <b><u>6 Months Out</u></b>
 <br />
 <br />
 <p>
-I began completing all Transition Assistance Program requirements.
+I began completing all Transition Assistance Program (TAP) requirements.
 
-Since I'm active duty, this was a requirement before I could submit my SkillBridge application to the Army. This can take a few months, depending on your work schedule, and you are technically able to start 12 (CONUS) - 18 (OCONUS) months before your transition date.
+Since I'm active duty, this was a requirement before I could submit my SkillBridge application to the Army. This can take a few months, depending on your work schedule, and you are technically able to start 12-18 (CONUS / OCONUS) months before your transition date.
 
 I also began my SkillBridge application and the LinkedIn Learning Path, with the goal to complete it PRIOR to application submission. This isn't required, but it can show that you're dedicated to the program by completing it well ahead of materials cut-off time.
 
-<i><b>Key Takeaway:</b> If you're active duty, you'll have a lot of things being asked of you while you transition. Knock TAP out early and start your application process before the actual windows opens up.</i>
+<i><b>Key Takeaway:</b> If you're active duty, you'll have a lot of things being asked of you while you transition. Knock TAP out early and start on the requirements before the actual window opens up.</i>
 
 </p>
 <b><u>5 Months / 20 Weeks Out</u></b>
-The MSSA CAD application window opened! It remains open for two weeks, starting roughly 20 weeks out from the cohort start date.
+<br />
+<br />
 
-The application is relatively straight forward, mainly requiring basic contact information.
+<p>
+The MSSA CAD application window opened! Application windows open for two weeks, starting roughly 20 weeks out from the cohort start date.
+
+The application was relatively straight forward, mainly requiring basic contact information.
 
 There are two parts that you should be ready for.
 
@@ -213,7 +218,7 @@ My application was reviewed for initial eligibility. Once eligibility was confir
 
 Luckily, I already had all of my documentation ready for submission. This took a lot of pressure off of my shoulders as I didn't have to trickle in documents over the course of the next 2 months before the important <b>materials cutoff date.</b>
 
-Technically, once you submit one required document, you will be assigned an application manager to assist you.
+For awareness, once you submit one required document, you will be assigned an application manager to assist you. This is your point of contact that can answer any specific questions you have on your requirements.
 
 After submitting all of my documentation, my file was promptly confirmed, and interview scheduling was made available!
 
@@ -245,11 +250,11 @@ It's in list form, because lists are cool.
 <br />
 <li>As with any interview, the more you prepare, the better you'll be. Find a good list of sample questions like this <a href="https://github.com/ashishps1/awesome-behavioral-interviews">one</a> and practice. Run through questions with your friends, your spouse, your mentor, and that weird guy at the bus stop. You'll be 100x better if you do.</li> 
 <br/>
-<li>Have a list of stories in your head that you know really well. That way, if you get a question that you didn't practice, you can use adapt one of these stories to answer the question.</li>
+<li>Have a list of stories in your head that you know really well. That way, if you get a question that you didn't anticipate, you can adapt one of these stories to answer the question.</li>
 <br />
 <li>Prove to the interviewers that you're passionate about tech. Tell them about your self-taught journey, those projects you're working on, and the college classes you've been taking. They want you to succeed, so make it easy for them by showing why you're the best candidate.</li>
 <br />
-<li>This is likely one of your first real interview experiences outside of the military. Relax. This interview matters, but it's also just a conversation between people. In addition to the interviewers screening you, make sure you have questions for them to determine whether the program is actually a good fit.</li>
+<li>This is likely one of your first real interview experiences outside of the military. Relax. This interview matters, but it's also just a conversation between people. In addition to the interviewers screening you as a candidate, make sure you have questions to screen whether the program is what you're looking for.</li>
 </ul>
 
 I could probably write another page and a half of advice, but I'll leave it there. If you are desiring more, reach out and we'll chat.
@@ -293,11 +298,9 @@ It was definitely a cause for celebration after a long admission process.
 <center> <b> Conclusion </b> </center>
 <br />
 <p>
-The MSSA application process is not to be taken lightly. You're applying to an extremely selective Microsoft program.
+The MSSA application process is not to be taken lightly. You're applying to an extremely selective Microsoft program. If you want to be successful in that application, you'll need to put in the effort.
 
-If you want to be successful in that application, you'll need to put in the effort.
-
-In the event that you are not selected, don't give up. There are plenty of people that don't make it in the first time but are accepted on their second or third attempt. If you really want the experience, then keep trying!
+In the event that you are not selected, don't give up. There are plenty of people that don't make it in the first time but are accepted on their second or even third attempt. If you really want the experience, then keep trying!
 
 In the event that you are selected, congratulations! It's an incredible opportunity and something to be proud of. Keep preparing until cohort start and be ready for the ride!
 
