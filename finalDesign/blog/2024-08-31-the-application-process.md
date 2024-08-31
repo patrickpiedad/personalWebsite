@@ -6,8 +6,8 @@ date: 2024-08-31
 tags:
     - post
     - featured
-image: /images/microsoftLogo.jpg
-imageAlt: logo of Microsoft in 3D crystal form
+image: /images/application.png
+imageAlt: picture of job application
 ---
 
 <center> <b> Introduction </b> </center>

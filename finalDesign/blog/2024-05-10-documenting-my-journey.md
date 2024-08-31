@@ -4,8 +4,7 @@ description: I decided to document my software development learning and here's w
 author: Patrick Piedad
 date: 2024-05-10
 tags:
-  - post
-  - featured
+    - post
 image: /images/lightbulb.jpeg
 imageAlt: 11ty code
 ---
@@ -48,14 +47,10 @@ Outside of those reasons, there are a multitude of others to include:
 
 So, if you're thinking about writing about your journey, let me be the first to encourage you to do it.
 
-If you're wondering if software development is for you, then let's connect and we can wander the path together. 
+If you're wondering if software development is for you, then let's connect and we can wander the path together.
 
 And if you're a five-foot short, Filipino lady with a cute but very talkative Yorkie Terrier, hi mom!
 
 Cheers,
 <br>
 Pat
-
-
-
-
