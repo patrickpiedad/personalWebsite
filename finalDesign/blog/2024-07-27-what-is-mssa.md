@@ -48,7 +48,7 @@ MSSA is a transitioning service member, veteran, and military-spouse oriented pr
 
 There is also an option for people that do have IT experience and want to pursue a more advanced path in the cybersecurity world.
 
-MSSA offers high quality technical training on a chosen learning path, teaching the "hard skills" that service members often feel like they are lacking when transitioning into the civilian sector.
+MSSA offers high quality technical training on a chosen learning path, teaching the "hard skills" that service members often feel they are lacking when transitioning into the civilian sector.
 
 On top of that, MSSA also offers professional development training that is of equal quality to the technical training. This professional development includes many of the topics that you go through during your Transition Assistance Program (TAP), but on a whole other level.
 
@@ -108,7 +108,7 @@ CAD teaches you software development, with the primary context being the .NET ec
 
 From what I've heard from past participants and current cohorts, you will receive high quality training in all three learning paths. The challenge is figuring out what learning path fits you the best.
 
-I recommend researching more about the target jobs for each path. This should give you an idea of the "end goal" of MSSA. After that, practice some self-reflection on what you are passionate about that should push you towards one of the choices.
+I recommend researching more about the target jobs for each path. This should give you an idea of the "end goal" of MSSA. After that, practice some self-reflection on what you are passionate about. That should push you towards one of the choices.
 
 ---
 
