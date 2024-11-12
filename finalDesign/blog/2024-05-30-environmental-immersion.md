@@ -5,7 +5,6 @@ author: Patrick Piedad
 date: 2024-05-30
 tags:
     - post
-    - featured
 image: /images/fullImmersion.jpeg
 imageAlt: Man fully immersed in water diving
 ---
